@@ -1,2 +1,2 @@
 # HTML Cheatsheet
-## Basis
+## Basics
